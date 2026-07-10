@@ -59,3 +59,43 @@
     border: 2px solid white;
     border-radius: 25px;
 }
+
+.bigcontainer3{
+    width: 150px;
+    height: 155px;
+    border: 2px solid black;
+    margin-top: 20px;
+    
+}
+
+.purple{
+    background-color:rgb(255, 0, 242);
+    width: 150px;
+    height: 90px;
+}
+.bigcontainer4{
+    width: 150px;
+    height: 155px;
+    border: 2px solid black;
+    margin-top: 20px;
+    
+}
+
+.cyan{
+    background-color:rgb(47, 170, 177);
+    width: 150px;
+    height: 90px;
+}
+.bigcontainer5{
+    width: 150px;
+    height: 155px;
+    border: 2px solid black;
+    margin-top: 20px;
+    
+}
+
+.orange{
+    background-color:rgb(184, 156, 64);
+    width: 150px;
+    height: 90px;
+}
