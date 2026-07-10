@@ -1,0 +1,33 @@
+.bigcontainer3{
+    width: 150px;
+    height: 155px;
+    border: 5px solid black;
+    margin-top: 20px;
+}
+.black{
+    background-color: cyan;
+    width: 150px;
+    height: 90px;
+}
+.bigcontainer4{
+    width: 150px;
+    height: 155px;
+    border: 5px solid black;
+    margin-top: 20px;
+}
+.purple{
+    background-color: rgb(129, 61, 174);
+    width: 150px;
+    height: 90px;
+}
+.bigcontainer5{
+    width: 150px;
+    height: 155px;
+    border: 5px solid black;
+    margin-top: 20px;
+}
+.orange{
+    background-color: rgb(174, 161, 67);
+    width: 150px;
+    height: 90px;
+}
