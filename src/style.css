@@ -3,6 +3,7 @@
     height: 155px;
     border: 2px solid black;
     margin-top: 20px;
+    
 }
 
 .brown{
@@ -43,12 +44,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 40px;
 }
 
 .nav3{
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    gap: 20px;
     
 }
 
