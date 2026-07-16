@@ -1,0 +1,8 @@
+.bigcontainer{
+    width: 200px;
+    height: 250px;
+}
+.smallcontainer{
+    background-color:solid yellow;
+    width: 200px;
+}
