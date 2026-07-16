@@ -1,4 +1,10 @@
+main{
+    display: flex;
+    justify-content:center;
+}
+
 .bigcontainer{
+    /* display: flex; */
     width: 150px;
     height:155px;
     border: 2px solid black;
@@ -20,16 +26,7 @@
 font-family:'Times New Roman', Times, serif;
     font-size: medium;
 }
-    
 
-    
-    height: 155px;
-    border: 2px solid black;
-    margin-top: 20px;
-   
-
-    
-}
 
 .brown{
     background-color:blue;
