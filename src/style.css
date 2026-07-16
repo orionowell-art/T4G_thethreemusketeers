@@ -1,5 +1,28 @@
 .bigcontainer{
     width: 150px;
+    height:155px;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.yellow{
+    background-color:purple;
+    height: 90px;
+    width: 150px;
+}
+
+.pink{
+    background-color:rosybrown;
+    height: 90px;
+    width: 150px;
+}
+
+.p1{
+font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+    
+
+    
     height: 155px;
     border: 2px solid black;
     margin-top: 20px;
