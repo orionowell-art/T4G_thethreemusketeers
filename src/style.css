@@ -1,8 +1,10 @@
-.bigcontainer1{
+.bigcontainer{
     width: 150px;
     height: 155px;
     border: 2px solid black;
     margin-top: 20px;
+   
+
     
 }
 
@@ -17,13 +19,6 @@
     font-size:medium;
 }
 
-
-.bigcontainer2{
-    width: 150px;
-    height: 155px;
-    border: 2px solid black;
-    margin-top: 20px;
-}
 
 .red{
     background-color: red;
@@ -58,4 +53,18 @@
 .logo{
     border: 2px solid white;
     border-radius: 25px;
+}
+
+
+.blue{
+    background-color: yellow;
+    width: 150px;
+    height: 90px;
+}
+
+
+.indigo{
+    background-color:  orange;
+    width: 150px;
+    height: 90px;
 }
