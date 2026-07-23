@@ -1,7 +1,8 @@
 
 main{
     display: flex;
-    justify-content:center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
 
 .bigcontainer{
@@ -76,7 +77,12 @@ font-family:'Times New Roman', Times, serif;
     border-radius: 25px;
 }
 
-<<<<<<< HEAD
+.bigcontainer:hover {
+    border-color:gray;
+    box-shadow: 0 0 10px gray;
+}
+
+
 
 .blue{
     background-color: yellow;
@@ -102,45 +108,3 @@ font-family:'Times New Roman', Times, serif;
     width: 150px;
     height: 90px;
 }
->>>>>>> 7cbb14ad1e204a35bca9208ccc45358ba06d0e48
-=======
-.bigcontainer3{
-    width: 150px;
-    height: 155px;
-    border: 2px solid black;
-    margin-top: 20px;
-    
-}
-
-.purple{
-    background-color:rgb(255, 0, 242);
-    width: 150px;
-    height: 90px;
-}
-.bigcontainer4{
-    width: 150px;
-    height: 155px;
-    border: 2px solid black;
-    margin-top: 20px;
-    
-}
-
-.cyan{
-    background-color:rgb(47, 170, 177);
-    width: 150px;
-    height: 90px;
-}
-.bigcontainer5{
-    width: 150px;
-    height: 155px;
-    border: 2px solid black;
-    margin-top: 20px;
-    
-}
-
-.orange{
-    background-color:rgb(184, 156, 64);
-    width: 150px;
-    height: 90px;
-}
->>>>>>> 585d7474226fce8062e6de2cc794ecc233673051
